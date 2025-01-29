@@ -1,1 +1,0 @@
-project 2 sdk 7 dotnet mvn project
